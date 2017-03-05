@@ -1,0 +1,14 @@
+I have two openings in Pune could you please confirm which position are you comfortable to proceed with.
+ 
+Position 1
+* Team foundation migration to Microsoft
+• Experience with TFS integration tool built on TFS integration platform
+* Upgrade and migration of TFS
+• Experience with WIQL (Work item query language)
+ 
+Position 2
+*Experience with Powershell scripting for automation tasks
+*Configuration, deployment and Change management using tools Bamboo, puppet, Chef
+*Some development experience preferably in .Net , C Sharp, Angular JS or other similar technologies
+*Windows system admin experience
+* Client communication, reporting, excellent stakeholder coordination skills
